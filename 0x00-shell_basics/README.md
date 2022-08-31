@@ -1,1 +1,1 @@
-Task 6. Welcome
+Task7. Betty in my first directory
